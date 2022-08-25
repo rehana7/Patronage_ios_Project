@@ -1,10 +1,10 @@
 # Patronage 
 To create a common platform where small and large enterprises can exchange resources and work together for mutual benefit.
 
-#Team Members:
+# Team Members:
 ```
 REHAMAN NAGURU ABDUR    -   S544913 
-REHANA NAGURU		         -   S545514 
+REHANA NAGURU		       -   S545514 
 SANDHYA NIDIGONDA       -   S545239
 RAHUL KONDA             -   S545465
 RADHA NAYAKANTI         -   S545020
