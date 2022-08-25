@@ -3,8 +3,8 @@ To create a common platform where small and large enterprises can exchange resou
 
 #Team Members:
 ```
-REHAMAN NAGURU ABDUR    -   S544913
-REHANA NAGURU		        -   S545514
+REHAMAN NAGURU ABDUR    -   S544913 
+REHANA NAGURU		         -   S545514 
 SANDHYA NIDIGONDA       -   S545239
 RAHUL KONDA             -   S545465
 RADHA NAYAKANTI         -   S545020
